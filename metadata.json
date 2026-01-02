@@ -1,0 +1,5 @@
+{
+  "name": "GeneCircuits Web - Electron to web-app conversion",
+  "description": "A web-based synthetic biology design and simulation platform. Design genetic circuits and simulate their behavior. Migrated from Electron to a modern React Web App.",
+  "requestFramePermissions": []
+}
